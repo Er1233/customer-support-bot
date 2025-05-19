@@ -1,0 +1,33 @@
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db.gitignore
+.env
+api.py
+cli.py
+bot.py
+config.py
+Dockerfile
+README.md
+requirements.txt
